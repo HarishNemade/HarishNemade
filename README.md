@@ -2,13 +2,13 @@
 
 <h1 align="center">👋 Hi, I'm <a href="https://in.linkedin.com/in/harish-nemade-946a09249/" target="_blank"> Harish Nemade </a> </h1>
 
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Skills:+HTML+CSS+JavaScript+React" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Skills:+C+C+++Python+Linux+DataAnalytics" /> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/abhay-naikwadi-0777851b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:naikwadiabhay1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/abhay_naikwadi_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://in.linkedin.com/in/harish-nemade-946a09249/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:harishnemade100@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.instagram.com/abhay_naikwadi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
 <h3 align="left">Web Tech Stacks :</h3>
@@ -40,12 +40,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=abhaynaikwadi&show_icons=true&theme=dark&locale=en" alt="abhay-naikwadi" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=HarishNemade&show_icons=true&theme=dark&locale=en" alt="HarishNemade" /></td>
    
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaynaikwadi&theme=dark" alt="abhay-naikwadi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarishNemade&theme=dark" alt="HarishNemade" /></p>
   </div>
 
